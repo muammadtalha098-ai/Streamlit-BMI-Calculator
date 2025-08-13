@@ -55,4 +55,5 @@ if st.button("Click to calculate"):
 
 # Footer
 st.markdown("---")
-st.caption("💡Tip: Maintaion your BMI to stay healthy overall.")
+st.caption("💡Tip: Maintain a healthy BMI to support overall well-being")
+
